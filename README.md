@@ -39,7 +39,7 @@ This study was funded by Health Canada under the Air Quality Program of the Gove
 
 **APA**
 
->Rana, J., Kaufman, J. S., Hatzopoulou, M., Zalzal, J., Chen, C., Keil, A. P., Benmarhnia, T., & Chen, H. *Health Benefits and Equity Implications of Zero-Emission Transportation on Nonaccidental Mortality from Traffic-Related Air Pollution in Toronto, Canada: A Causal Analysis of Multipollutant Exposures* [Under Review].
+>Rana, J., Kaufman, J. S., Hatzopoulou, M., Zalzal, J., Chen, C., Keil, A. P., Benmarhnia, T., & Chen, H. (2026) *Health Benefits and Equity Implications of Zero-Emission Transportation on Nonaccidental Mortality from Traffic-Related Air Pollution in Toronto, Canada: A Causal Analysis of Multipollutant Exposures* [Under Review].
 
 ## Contact
 
