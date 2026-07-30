@@ -2,7 +2,7 @@
 
 This folder includes **reproducible R code** for the **Health Benefits and Equity Implications of Zero-Emission Transportation on Nonaccidental Mortality from Traffic-Related Air Pollution in Toronto, Canada: A Causal Analysis of Multipollutant Exposures** Manuscript Analysis and Visualization.
 
-Authors: Juwel Rana, Jay S. Kaufman, Marianne Hatzopoulou, Jad Zalzal, Chen Chen, Alexander P. Keil, Tarik Benmarhnia,  Hong Cheng
+**Authors:** Juwel Rana, Jay S. Kaufman, Marianne Hatzopoulou, Jad Zalzal, Chen Chen, Alexander P. Keil, Tarik Benmarhnia,  Hong Cheng
 
 Raw microdata, census extracts, and large derived datasets are **not** included.
 
