@@ -1,4 +1,4 @@
-# Mortality-Benefit-ZEV
+# ZEV Interventions, Mortality Benefit and Environmental Justice
 
 This folder includes **reproducible R code** for the **Health Benefits and Equity Implications of Zero-Emission Transportation on Nonaccidental Mortality from Traffic-Related Air Pollution in Toronto, Canada: A Causal Analysis of Multipollutant Exposures** Manuscript Analysis and Visualization.
 
